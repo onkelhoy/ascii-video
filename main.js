@@ -10,7 +10,7 @@ context.font = "8px Courier New";
 
 // based on widht 50
 let videodimheight = 1;
-const SVW = 250; // squeezed video width
+const SVW = 200; // squeezed video width
 
 const charactures = 'WM#8@B&%$*+=-:.                  '
 
